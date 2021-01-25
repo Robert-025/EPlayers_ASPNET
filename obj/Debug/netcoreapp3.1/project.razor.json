@@ -14397,6 +14397,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\10\\Documents\\Curso\\1º Semestre\\Sprint 4 - BackEnd - POO\\EPlayers_ASPNET\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\10\\Documents\\Curso\\1º Semestre\\Sprint 4 - BackEnd - POO\\EPlayers_ASPNET\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14419,6 +14424,11 @@
     {
       "FilePath": "c:\\Users\\10\\Documents\\Curso\\1º Semestre\\Sprint 4 - BackEnd - POO\\EPlayers_ASPNET\\Views\\Equipe\\Index.cshtml",
       "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\10\\Documents\\Curso\\1º Semestre\\Sprint 4 - BackEnd - POO\\EPlayers_ASPNET\\Views\\Jogador\\Index.cshtml",
+      "TargetPath": "Views\\Jogador\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

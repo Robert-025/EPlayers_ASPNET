@@ -46,7 +46,7 @@ namespace EPlayers_ASPNET.Models
             //Ler todas as linhas do CSV
             string[] linhas = File.ReadAllLines(PATH);
 
-            //Percorrer as linhas e adicionar na lista de equipers cada objeto
+            //Percorrer as linhas e adicionar na lista de equipes cada objeto
 
             foreach (var item in linhas)
             {
